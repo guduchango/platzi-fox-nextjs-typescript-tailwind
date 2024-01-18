@@ -18,7 +18,7 @@ npm run dev
 
 * Add images with lazy load
 
-![alt text](https://simple-store-vite-react-tailwind.edgardoponce.com/images/store_photos/login.png "Login")
+![alt text](https://fox-nextjs-typescript-tailwind.edgardoponce.com/home.png "Home")
 
 
 ### Plazti certification 
@@ -28,5 +28,3 @@ npm run dev
 ### Download
 
 [Download certificate](https://fox-nextjs-typescript-tailwind.edgardoponce.com/diploma-react-typescript.pdf)
-
-
