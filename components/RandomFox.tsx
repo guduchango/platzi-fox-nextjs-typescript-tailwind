@@ -40,7 +40,6 @@ export function LazyImage({
 
         // Ejemplo de extension de Window con Plausible
         // window.plausible("lazyload", { props: { src } });
-
       });
     });
 

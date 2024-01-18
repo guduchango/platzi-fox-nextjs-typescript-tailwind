@@ -1,36 +1,53 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<p align="center">
+  <a href="https://platzi.com/cursos/react-typescript/" target="_blank">
+    <img alt="Curso de Platzi de React con TypeScript" src="https://static.platzi.com/media/achievements/piezas-react-typescript-apollo-server-prisma-cms_badge-5995d28d-302e-4bdd-bd86-e49a1b.png" width="60" />
+  </a>
+  <a href="https://platzi.com/cursos/react-typescript/" target="_blank">
+    <img alt="Curso de Next.js con GraphQL" src="https://static.platzi.com/media/achievements/piezas-react-typescript_badge-cbeed361-b95b-439e-a48b-ce024f85384e.png" width="60" />
+  </a>
+</p>
+<h1 align="center">
+  Curso de Platzi de React con TypeScript
+</h1>
 
-## Getting Started
+Este repositorio contiene el proyecto realizado durante el Curso de Platzi de React con TypeScript, dictado por [@jonalvarezz](https://twitter.com/jonalvarezz) para [Platzi](https://platzi.com).
 
-First, run the development server:
+## 🚗 Dependencias
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+1. Node.js
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+   Recomendamos instalarlo a través de [Fast Node Manager (fnm)](https://github.com/Schniz/fnm). Versiones soportadas: 14+.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🤖 Guía Para Desarrollo Local
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+1. Clona el repositorio
 
-## Learn More
+   ```sh
+   git clone git@github.com:jonalvarezz/platzi-react-typescript.git
+   ```
 
-To learn more about Next.js, take a look at the following resources:
+1. Instala dependencias
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+   ```sh
+   # Instala desde la raíz del proyecto
+   cd platzi-react-typescript
+   npm install
+   ```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+1. Inicia la aplicación
 
-## Deploy on Vercel
+   ```sh
+   # Desde la raíz del proyecto:
+   npm run dev
+   ```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+   🚀 La app estará disponible en http://localhost:3000
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## 🐞 Encontraste un error o mejora?
+
+Ayuda a otros estudiantes con eso que acabas de descubrir que haría este curso y respositorio mucho mejor.
+
+- En [Issues](https://github.com/jonalvarezz/react-typescript/issues/new) puedes reportar errores, agregar sugerencias y comentarios.
+- Por su parte, los [Pull Request](https://github.com/jonalvarezz/react-typescript/pulls) siempre estarán abiertos para recibir mejoras puntuales.
+
+Happy hacking!
