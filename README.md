@@ -1,53 +1,32 @@
-<p align="center">
-  <a href="https://platzi.com/cursos/react-typescript/" target="_blank">
-    <img alt="Curso de Platzi de React con TypeScript" src="https://static.platzi.com/media/achievements/piezas-react-typescript-apollo-server-prisma-cms_badge-5995d28d-302e-4bdd-bd86-e49a1b.png" width="60" />
-  </a>
-  <a href="https://platzi.com/cursos/react-typescript/" target="_blank">
-    <img alt="Curso de Next.js con GraphQL" src="https://static.platzi.com/media/achievements/piezas-react-typescript_badge-cbeed361-b95b-439e-a48b-ce024f85384e.png" width="60" />
-  </a>
-</p>
-<h1 align="center">
-  Curso de Platzi de React con TypeScript
-</h1>
+# A generic React component to load images with lazy loading.
 
-Este repositorio contiene el proyecto realizado durante el Curso de Platzi de React con TypeScript, dictado por [@jonalvarezz](https://twitter.com/jonalvarezz) para [Platzi](https://platzi.com).
+## NexJs + React + Typescript + TailwindCss
 
-## 🚗 Dependencias
+```
+git clone https://github.com/guduchango/platzi-fox-nextjs-typescript-tailwind.git
 
-1. Node.js
+npm install
 
-   Recomendamos instalarlo a través de [Fast Node Manager (fnm)](https://github.com/Schniz/fnm). Versiones soportadas: 14+.
+npm run dev
+```
 
-## 🤖 Guía Para Desarrollo Local
+### Live proyect
 
-1. Clona el repositorio
+[A generic React component to load images with lazy loading](https://fox-nextjs-typescript-tailwind.edgardoponce.com/diploma-react-typescript.pdf)
 
-   ```sh
-   git clone git@github.com:jonalvarezz/platzi-react-typescript.git
-   ```
+### ¿What the project do?
 
-1. Instala dependencias
+* Add images with lazy load
 
-   ```sh
-   # Instala desde la raíz del proyecto
-   cd platzi-react-typescript
-   npm install
-   ```
+![alt text](https://simple-store-vite-react-tailwind.edgardoponce.com/images/store_photos/login.png "Login")
 
-1. Inicia la aplicación
 
-   ```sh
-   # Desde la raíz del proyecto:
-   npm run dev
-   ```
+### Plazti certification 
 
-   🚀 La app estará disponible en http://localhost:3000
+![alt text](https://fox-nextjs-typescript-tailwind.edgardoponce.com/diploma-react-typescript.png "Certification")
 
-## 🐞 Encontraste un error o mejora?
+### Download
 
-Ayuda a otros estudiantes con eso que acabas de descubrir que haría este curso y respositorio mucho mejor.
+[Download certificate](https://fox-nextjs-typescript-tailwind.edgardoponce.com/diploma-react-typescript.pdf)
 
-- En [Issues](https://github.com/jonalvarezz/react-typescript/issues/new) puedes reportar errores, agregar sugerencias y comentarios.
-- Por su parte, los [Pull Request](https://github.com/jonalvarezz/react-typescript/pulls) siempre estarán abiertos para recibir mejoras puntuales.
 
-Happy hacking!
